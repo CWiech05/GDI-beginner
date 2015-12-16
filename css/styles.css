@@ -1,0 +1,82 @@
+body {
+	background-color: #C71414;
+	font-family: Verdana, Geneva, sans-serif;
+	color: white;
+	margin: 0;
+}
+
+a {
+	color: #F0C042;
+	text-decoration: none;
+}
+
+a:hover {
+	color: teal;
+}
+
+span {
+	font-weight: bold;
+}
+
+h3 {
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: normal;
+	border: 2px solid white;
+	padding: 10px;
+	margin: auto;
+	margin-bottom: 50px;
+	margin-top: 50px;
+	width: 200px;
+}
+
+section {
+	margin: auto;
+	width: 70%;
+}
+
+#banner {
+	width: 100%;
+	position: relative;
+}
+
+#banner-image {
+	width: 100%;
+}
+
+.corral {
+	position: absolute;
+	bottom: 20%;
+	text-align: center;
+	width: 100%;
+	font-family: Georgia, Times, "Times New Roman", serif;
+	color: #C9BEBE;
+}
+
+#banner ul {
+	padding-left: 0;
+}
+
+#banner li {
+	display: inline;
+	margin: 0 5px 0 5px;
+}
+
+h1 {
+	font-size: 46px;
+	margin-bottom: 0;
+}
+
+.portfolio-item {
+	float: left;
+	width: 31.33333%;
+	margin: 1%;
+}
+
+.portfolio-item img {
+	width: 100%;
+}
+
+
+
+
